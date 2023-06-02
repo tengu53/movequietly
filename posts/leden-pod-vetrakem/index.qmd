@@ -1,5 +1,5 @@
 ---
-title: "Co se v turbulentním březnu povedlo"
+title: "Leden pod Větřákem - co se povedlo a poznatky pro příští zimu"
 author: "Edgar Walden"
 date: "2022-01-25"
 categories: [doma, as time goes by]
