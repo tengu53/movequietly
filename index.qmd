@@ -1,5 +1,5 @@
 ---
-title: "Move quitely and plant things"
+title: "Move quietly and plant things"
 listing:
   contents: posts
   sort: "date desc"
