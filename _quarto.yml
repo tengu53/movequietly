@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Dvojitykafe.cz"
+  navbar:
+    right:
+      - about.qmd
+      - kontakt.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+  cookie-consent: false      
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+lang: cs
+
+
+
