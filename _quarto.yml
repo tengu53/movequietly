@@ -17,6 +17,7 @@ format:
   html:
     theme: flatly
     css: styles.css
+    mainfont: arial
 
 lang: cs
 
