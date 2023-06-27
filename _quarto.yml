@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dvojitykafe.cz"
+  title: "Move quietly and plant things"
   navbar:
     right:
       - about.qmd

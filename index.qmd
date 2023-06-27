@@ -1,5 +1,5 @@
 ---
-title: "Move quietly and plant things"
+title: "Edgarova digitální zahrada"
 listing:
   contents: posts
   sort: "date desc"
