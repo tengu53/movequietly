@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Move quietly and plant things"
+  site-url: https://movequietly.eu
+  open-graph: true
   navbar:
     right:
       - about.qmd
