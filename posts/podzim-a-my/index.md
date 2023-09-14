@@ -22,6 +22,7 @@ Rajčata nám navíc v létě potlouklo krupobití - kroupy velké až 3 cm let�
 ## Winter is comming
 
 Každopádně dřevo je už dlouho pod střechou, ve skladu máme si železnou zásobu dřevních briket (jsou drahé, nechávám je, pokud by opravdu hodně mrzlo). Ve skladu je i metrák brambor, bedna cibule a bedna česneku. Takže zima bude hodně bramborová. Začínám uvažovat taky o pultovém mrazáku, protože se nám tu rýsují různé zdroje masa. A výhledově to bude chtít také **mlýnek na mouku** - ideálně nějaký ruční, ale takový, ke kterému by se dal posléze *dobastlit* nějaký druh motorového pohonu. A kupovat obilí (pšenice, žito) z dobrého zdroje po pytlech. Přece jen semínko je taková přirozená "konzerva" mouky.
+
 ## Hefaiston
 
 Ještě v srpnu se nám podařilo navštívit akci Hefaiston. Jde o setkání kovářů z celého světa na hradě Helfštýn (fotka v úvodu). Akce samotná byla výborná. Už jen ten zvuk kovadlin a bucharů  doprovázený kouřem z uhlí měl něco do sebe. Jenom mě překvapilo, že ne úplně nízké vstupné nešlo platit kartou. A také množství stánků s různým *shitem* v podhradí. Samozřejmě, prodávaly se tu třeba pěkné šperky nebo potřeby pro kováře, ale celkově spíš nic, než moc. 
