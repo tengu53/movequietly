@@ -17,7 +17,7 @@ V zahradě se nám příliš nedařilo, vzhledem ke chladnému období v létě 
 
 Ani ovocné stromy se letos moc nepředvedly. Měli jsme pár švestek - už jsou nasušené - a to je asi všechno. Ale celkově mi zahrada dělá radost, už tady vznikají útulná místa a přirozeně rostou i jednotlivé oblasti podle určení - rekreační část, užitková část, meditační část (místo,odkud je vidět do krajiny a na západy slunce) a kompostovací část, v níž je zatím neforemná hromada rostlinného odpadu. Právě tady vznikne kompostovací kadibudka, několik kompostérů a časem třeba i nějaký bioreaktor.
 
-Rajčata nám navíc v létě potlouklo krupobití - kroupy velké až 3 cm letěly ve vichřici téměř vodorovně. Jiné rostliny a stromy to přežily, ale odnesla to fasáda na části domu, která ale byla udělaná blbě. Takže mě čeká ještě práce se stavebním lepidlem. Ale tu si nechám až bude přece jen trochu chladněji.
+Rajčata nám navíc v létě potlouklo krupobití - kroupy velké až 3 cm letěly ve vichřici téměř vodorovně. Jiné rostliny a stromy to přežily, ale odnesla to fasáda na části domu, která ale byla udělaná blbě. Takže mě čeká ještě práce se stavebním lepidlem. Ale tu si nechám, až bude přece jen trochu chladněji.
 
 ## Winter is comming
 
