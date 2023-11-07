@@ -3,11 +3,13 @@ title: "Ukaž mi svůj plovák"
 author: "Edgar Walden"
 date: "2023-08-09"
 categories: [něco víc meta]
-image: ""
+image: "hobby-blog.png"
 filters: 
    - lightbox
 lightbox: auto
 ---
+![Obr: Stable Diffusion AI](hobby-blog.jpg)
+
 V jednom ze svých deníkových zápisů jsem použil pitomé klišé. Napsal jsem o dvou knížkách, které mě teď  "drží nad vodou". A právě za to *"drží nad vodou"*, bych si dal varovný lepanec. A možná rovnou dva, jeden za to hloupé klišé a druhý za to, že přece zrovna moc držet nad vodou nepotřebuju. Že prostě přece zvládám plavat sám. 
 
 Ale tak nějak to ze mě vypadlo v tom zápisu vypadlo, takže na tom asi něco bude. Tady bych asi připomenul, že mám už dlouhá léta svůj osobní  a notně neveřejný deník - používám na to denní poznámky v Obsidianu. Je to prostě nedílná součást mé "digitální zahrady" a dost důležitá složka mé sádhany. Dělejte to taky tak. Ale to jsem, *more*, trochu odbočil...
