@@ -8,7 +8,7 @@ filters:
    - lightbox
 lightbox: auto
 ---
-![Obr: Stable Diffusion AI](hobby-blog.jpg)
+![Obr: Stable Diffusion AI](hobby-blog.png)
 
 V jednom ze svých deníkových zápisů jsem použil pitomé klišé. Napsal jsem o dvou knížkách, které mě teď  "drží nad vodou". A právě za to *"drží nad vodou"*, bych si dal varovný lepanec. A možná rovnou dva, jeden za to hloupé klišé a druhý za to, že přece zrovna moc držet nad vodou nepotřebuju. Že prostě přece zvládám plavat sám. 
 
